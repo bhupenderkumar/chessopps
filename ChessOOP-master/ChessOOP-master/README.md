@@ -28,5 +28,4 @@ Since this was one of our first project during our undergraduate, there are a lo
 Project Contributors
 --------------------
 
-1. Ashish Kedia (ashish1294@gmail.com)
-2. Adarsh Mohata (amohta163@gmail.com)
+1. Bhupender kumar(rajus9231@gmail.com).
